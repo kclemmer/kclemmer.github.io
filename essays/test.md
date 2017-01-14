@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-published: true
+published: false
 title: Test Essay
 date: 2017-01-14
 labels:
