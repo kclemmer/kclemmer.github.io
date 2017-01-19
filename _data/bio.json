@@ -63,9 +63,11 @@
       "area": "Computer Science (expected Spring, 2018)",
       "studyType": "B.S.",
       "startDate": "2016",
-      "endDate": "2019",
+      "endDate": "Present",
       "gpa": "",
       "courses": [
+        "Program Structure (ICS 212)",
+        "Security and Trust I (ICS 355)"
       ]
     },
     {
@@ -76,6 +78,9 @@
       "endDate": "2016",
       "gpa": "",
       "courses": [
+        "Intro to Computer Science (ICS 111)",
+        "Discrete Math for Comp Sci I (ICS 141)",
+        "Intro to Computer Science II (ICS 211)"
       ],
     },
     {
@@ -86,6 +91,7 @@
       "endDate": "",
       "gpa": "",
       "courses": [
+        "Discrete Math for Comp Sci II (ICS 241)"
       ]
     }
   ],
