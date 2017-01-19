@@ -66,8 +66,10 @@
       "endDate": "2019",
       "gpa": "",
       "courses": [
-      ],
-      "institution": "Kapiolani Community College, Honolulu, HI",
+      ]
+    },
+    {
+    "institution": "Kapiolani Community College, Honolulu, HI",
       "area": "Computer Science",
       "studyType": "A.S.",
       "startDate": "2010",
@@ -75,6 +77,8 @@
       "gpa": "",
       "courses": [
       ],
+    },
+    {
       "institution": "Leeward Community College, Pearl City, HI",
       "area": "Computer Science",
       "studyType": "",
