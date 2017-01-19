@@ -29,12 +29,12 @@
   },
   "interests": [
     {
-      "name": "software engineering",
+      "name": "Software engineering",
       "keywords": [
       ]
     },
     {
-      "name": "reading",
+      "name": "Reading",
       "keywords": [
       ]
     }
@@ -63,7 +63,7 @@
       "area": "Computer Science (expected Spring, 2018)",
       "studyType": "B.S.",
       "startDate": "2016",
-      "endDate": "Present",
+      "endDate": "2019",
       "gpa": "",
       "courses": [
       ],
