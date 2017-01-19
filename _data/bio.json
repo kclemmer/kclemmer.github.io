@@ -86,9 +86,9 @@
     {
       "institution": "Leeward Community College, Pearl City, HI",
       "area": "Computer Science",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "",
+      "studyType": "A.S.",
+      "startDate": "2016",
+      "endDate": "2016",
       "gpa": "",
       "courses": [
         "Discrete Math for Comp Sci II (ICS 241)"
@@ -102,7 +102,7 @@
       "website": "",
       "startDate": "2011-09-30",
       "endDate": "Present",
-      "summary": "Maintains radar equipment to ensure combat readiness",
+      "summary": "Maintain Radar Equipment to Ensure Combat Readiness",
       "highlights": [
       ]
     },
@@ -137,7 +137,7 @@
   ],
   "references": [
     {
-      "name": "Available upon request",
+      "name": "Available Upon Request",
       "reference": ""
     }
   ]
