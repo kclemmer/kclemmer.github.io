@@ -9,3 +9,5 @@ date: 2011-2014
 labels:
 summary: Controlling planes in the sky.
 ---
+
+  <img class="ui image" src="../images/RadarPic002.jpg">
