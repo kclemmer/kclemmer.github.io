@@ -15,4 +15,4 @@ summary: A simple program written in C for ICS 212.
   
 This was a project done for ICS 212. As of writing this this was probably the most lines of code I have written for a single program. 
 
-//[Repository Containing This Project](https://github.com/kclemmer/ICS212Project1)
+[Repository Containing This Project](https://github.com/kclemmer/ICS212Project1)
