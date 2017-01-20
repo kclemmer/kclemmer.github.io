@@ -10,4 +10,6 @@ labels:
 summary: Working on a radar.
 ---
 
+  <img class="ui image" src="../images/14K002.jpg">
+
 Information about Radar Technicians
