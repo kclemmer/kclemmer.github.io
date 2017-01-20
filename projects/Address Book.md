@@ -7,7 +7,7 @@ title: Address Book
 permalink:
 date: 2016
 labels: 
-  -C
-  -ICS 212
+  - C
+  - ICS 212
 summary: A simple program written in C for ICS 212.
 ---
