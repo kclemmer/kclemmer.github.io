@@ -4,7 +4,7 @@ type: project
 published: true
 image: images/ICS212CP1.png
 title: Address Book
-permalink: https://github.com/kclemmer/ICS212Project1
+permalink:
 date: 2016
 labels: 
   -C
