@@ -2,6 +2,7 @@
 layout: project
 type: project
 published: true
+timezone: HAWAII
 image: images/14K002.jpg
 title: Radar Technician
 permalink: 
