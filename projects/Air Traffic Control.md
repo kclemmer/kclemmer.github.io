@@ -7,5 +7,5 @@ title: Air Traffic Control
 permalink: 
 date: 2011-2014
 labels:
-summary: I once worked in Air Traffic Control
+summary: Controlling planes in the sky.
 ---
