@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 published: true
-title: JavaScript Reflection I
+title: JavaScript Reflection 1
 date: 2017-01-19
 labels:
   - JavaScript
