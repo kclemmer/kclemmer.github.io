@@ -18,4 +18,4 @@ This program was my introduction into C. Prior to this I had only used Java. I f
 
 Because of the nature of the class, there was already a structure for creating the project, and all I had to come up with was the code. I felt like this greatly challenged my understanding how code stores information as well as access it. 
 
-[C Code](https://github.com/kclemmer/ICS212Project1)
+[Link to the C Code](https://github.com/kclemmer/ICS212Project1)
