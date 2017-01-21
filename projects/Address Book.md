@@ -2,7 +2,7 @@
 layout: project
 type: project
 published: true
-image: 
+image: images/CIcon.jpg
 title: Address Book
 permalink: 
 date: 2016
