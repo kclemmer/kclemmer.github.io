@@ -7,13 +7,13 @@ title: Address Book
 permalink: 
 date: 2016-2016
 labels:
-summary: Controlling planes in the sky.
+summary: ICS 212 Project.
 ---
 
   <img class="ui tiny right spaced image" src="../images/CIcon.jpg">
 
-Most people have no idea what air traffic control is. There is a different culture among controllers than what any normal person would face. What they do is diffuclt. They have to keep track of every plane that they have been given control over and make sure that they dont hit any of the other planes. In addition to that, they have to keep each of the planes on the fastest route possibe, coordinating with other controllers in order to facilitate this. Not all controllers are created equal and as such the places that they work have various ratings in order to indicate the degree of difficulty that they face on a daily basis. The highest rating a facility can have is 12. 
+This program was my introduction into C. Prior to this I had only used Java. I found the rigidity of C to somewhat welcoming. This project was actually a series of small homeworks that all came together about half way into the semester. The purpose of this program is to create an address book made of record objects. It was inputted as a linked list of these objects and the contents of each record needed to be able to be modified. In addition, the contents of the list needed to be outputted onto a text document to use as a save file. This same save file would then be called upon at the next startup of the program and populate the array. 
 
-As a part of my military career I traveled the path of an Air Traffic Controller for a time. It was my first career and as such, straight out of basic, I went to tech school to learn how. The material was presented in two parts, the book learning and the simulators. There was a lot of history and technical data to memorize. Then they have you learn on simulators and most of what you are learning in the beginning is to get the words and phrases right. They have an encyclopedia with specific ways to say everything. From how to address planes to how to get them lined up for any sort of approach. It is an incredibly complex system which hinges mainly on memorization. But the real art of it is knowing what to say and when. It is this aspect of it that reminded me of a video game except it is played entirely with your words. You speak and they do, that is the contract in order to get them safely to their destinations. 
+This was by far the largest program that I had ever done. Throughout this project I had to write around a thousand lines of code and which included around a half dozen functions. Because of the nature of the class, there was already a structure for creating the project, and all I had to come up with was the code. I felt like this greatly challenged my understanding how code stores information as well as access it. 
 
-During this I had my share of failures, I felt that I gained more than enough to compensate for them. Through this experience I learned many things about myself including strengths and weaknesses. I know fully well what I am capable if and only if I apply myself. I also know where my limits are. This knowledge lets me know where I need to push in order to expand my horizons. The greatest takeaway from this experience is that as I become more comfortable within a given subject, the quality of what I can output increases exponentially. 
+[C Code](https://github.com/kclemmer/ICS212Project1)
