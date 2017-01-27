@@ -5,8 +5,8 @@ published: true
 title: Software Engineering
 date: 2017-01-21
 labels:
-  - ICS 314
   - Software Engineering
+  - ICS 314
 ---
 
 ## My Views on Software Engineering
