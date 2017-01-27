@@ -5,7 +5,7 @@ published: true
 title: Reflect on Smart Questions
 date: 2017-01-26
 labels:
-  - JavaScript
+  - Questions
   - ICS 314
 ---
 
