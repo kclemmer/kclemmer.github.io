@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 published: true
-title: War
+title: Faith Based Formatting
 date: 2017-02-06
 labels:
   - Standards
