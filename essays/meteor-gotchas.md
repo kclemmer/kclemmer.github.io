@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 published: true
-title: Meteor Gotchas
+title: Navigating Meteor
 date: 2017-03-09
 labels:
   - Software Engineering
