@@ -1,0 +1,43 @@
+
+---
+layout: essay
+type: essay
+published: true
+title: "Final Project Idea"
+date: 2017-03-09
+labels:
+  - Software Engineering
+  - Meteor
+---
+# Students are Cheap
+
+## Overview 
+*The Problem:*
+College students are generally strapped for funds and anything that saves them money is welcomed. However, most students are unaware of the ways in which they can save money.
+
+*The Solution:*
+*Students are Cheap* would be a directory in which students and faculty could post any saving opportunities that they feel would be useful.
+
+
+## Mockup page ideas
+Some possible mockup pages include:
+<li>Public Landing Page</li>
+<li>Login Page</li>
+<li>User Dashboard</li>
+<li>Totorial Page</li>
+<li>Admin Homepage</li>
+<li>Posting Page</li>
+<li>Reputation System Page</li>
+<li>Post Page</li>
+
+
+## Use case ideas
+<li>New user goes to landing page, logs in, goes to userda totorial page, they read through that and then are sent to the user dashboard.(Gets them started)</li>
+<li>Admin goes to landing page, logs in, gets admin homepage, edits site.</li>
+<li>User goes to post page, reads information, comments on post page.</li>
+<li>User goes to dashboard, user selects add post, goes to posting page, adds a post.</li>
+
+
+## Beyond the basics
+
+
