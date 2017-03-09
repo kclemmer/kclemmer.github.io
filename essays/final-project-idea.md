@@ -47,4 +47,5 @@ Whether or not the following bullet points list all pages or not, the completed 
 After implementing the basic functionality, here are ideas for more advanced features:
 <li>General chat system, with interface to a mobile app.</li>
 <li>Personalized opportunities on the user dashboard.</li>
-<li>Rating system</li>
+<li>Rating system for posts.</li>
+<li>Implement a map system for posts.</li>
