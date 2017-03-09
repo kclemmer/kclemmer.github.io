@@ -3,12 +3,13 @@
 layout: essay
 type: essay
 published: true
-title: "Final Project Idea"
+title: Final Project Idea
 date: 2017-03-09
 labels:
   - Software Engineering
   - Meteor
 ---
+
 # Students are Cheap
 
 ## Overview 
@@ -32,6 +33,7 @@ Some possible mockup pages include:
 
 
 ## Use case ideas
+Whether or not the following bullet points list all pages or not, the completed use case should show an end-to-end scenario of using the system.
 <li>New user goes to landing page, logs in, goes to userda totorial page, they read through that and then are sent to the user dashboard.(Gets them started)</li>
 <li>Admin goes to landing page, logs in, gets admin homepage, edits site.</li>
 <li>User goes to post page, reads information, comments on post page.</li>
@@ -39,5 +41,7 @@ Some possible mockup pages include:
 
 
 ## Beyond the basics
-
-
+After implementing the basic functionality, here are ideas for more advanced features:
+<li>General chat system, with interface to a mobile app.</li>
+<li>Personalized opportunities on the user dashboard.</li>
+<li>Rating system</li>
