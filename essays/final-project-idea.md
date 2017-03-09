@@ -18,6 +18,10 @@ College students are generally strapped for funds and anything that saves them m
 *The Solution:*
 *Students are Cheap* would be a directory in which students and faculty could post any saving opportunities that they feel would be useful.
 
+The basic idea with this is a community driven database with ways that students can save money. Things that could be posted here include but are not limited to: textbooks, housing, deals on food, coupons, student friendly establishments, etc.
+
+The main goals of this app are to connect less informed students with ways that they can reduce the costs associated with being a college student.
+
 
 ## Mockup page ideas
 Some possible mockup pages include:
