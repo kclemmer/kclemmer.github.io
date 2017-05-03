@@ -9,7 +9,6 @@ labels:
   - Ethics
 ---
 
-<img class="ui medium left floated image" src="../images/Rick_Sanchez.png">
 
 ## Gods
 
