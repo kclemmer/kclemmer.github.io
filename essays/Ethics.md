@@ -3,12 +3,11 @@ layout: essay
 type: essay
 published: true
 title: Get Schwifty
-date: 2017-5-02
+date: 2017-05-02
 labels:
   - ICS 314
   - Ethics
 ---
-
 
 ## Gods
 
