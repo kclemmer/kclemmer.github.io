@@ -10,7 +10,7 @@ labels:
 summary: ICS 314 Group Project.
 ---
 
-<img class="ui medium image" src="../images/current-home-page.jpg">
+<img class="ui medium image" src="../images/current-home-page.png">
 
-<img class="ui medium image" src="../images/current-filter.jpg">
+<img class="ui medium image" src="../images/current-filter.png">
 
