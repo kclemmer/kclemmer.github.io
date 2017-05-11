@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-published: true
+published: false
 title: Software Engineering
 date: 2017-01-21
 labels:
