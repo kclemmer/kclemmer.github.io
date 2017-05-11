@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-published: true
+published: false
 title: Get Schwifty
 date: 2017-05-02
 labels:
