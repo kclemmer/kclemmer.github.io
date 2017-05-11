@@ -13,7 +13,7 @@ labels:
 
 ## The Holy Wars
 
-<img class="ui medium left floated image" src="../images/knight.gif">
+<img class="ui medium left floated image" src="../images/knight.jpg">
 
 Well, perhaps not *that* long, but it has been a subject of discussion for a while now. Many people have added to this commentary over how code should be formatted. How are we to denote changes in our code? Different ways of writing code are easier to read than others! Should we use a or tab spaces instead? There are arguments from both sides which are rather compelling. The thing that I find most interesting is the lengths to which people will argue one way or another. While both sides have highly articulated arguments which make it almost impossible to choose, it is interesting to read all of the arguments. I find it much more interesting to be an observer to the battle than to be an active participant in it. After all, I have no horse in this race.
 
