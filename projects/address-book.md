@@ -10,7 +10,7 @@ labels:
 summary: ICS 212 Project.
 ---
 
-  <img class="ui tiny right spaced image" src="../images/ICS212CP1.jpg">
+<img class="ui tiny right spaced image" src="../images/ICS212CP1.jpg">
 
 The purpose of this program was to create an address book made of record objects. The records would be inputted as a linked list and the contents of each record needed to be able to be modified. In addition, the contents of the list needed to be outputted onto a text file to use as a save file. This same save file would then be called upon at the next startup of the program and populate the list. 
 
