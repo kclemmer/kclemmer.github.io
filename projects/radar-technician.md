@@ -10,7 +10,7 @@ labels:
 summary: Working on a radar.
 ---
 
-  <img class="ui image" src="../images/14K002.jpg">
+<img class="ui medium left floated image" src="../images/14K002.jpg">
 
 Radar technicians work on radars. You could have probably guessed that, but that statement barely scratches the surface of what those words mean. The school for being a radar technician in the military comes in three parts. Electronic Principles, Radar Fundamentals, and On the Job Training. They begin by introducing you to the world of electronics. This ranges from basic circuit diagrams to a cursory knowledge of networking. Radar Fundamentals explored the many different types of radar and the basic principles by which they operate. Every radar does three things: they transmit, recieve, and process data.
 
