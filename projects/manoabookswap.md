@@ -2,7 +2,7 @@
 layout: project
 type: project
 published: true
-image: images/mbs-logo.jpg
+image: images/mbs-logo.png
 title: Manoa Book Swap
 permalink: 
 date: 2017-2017
