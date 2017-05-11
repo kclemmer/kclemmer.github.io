@@ -14,7 +14,7 @@ Buying and selling textbooks has always been an issue for students of every age.
 
 As a group project for ICS 314 we put this site together. We used the meteor framework to organize it and in order to implement the site we used Javascript, CSS, SemanticUI, and HTML5.
 
-Below are some screenshots from the site. 
+Below are some screenshots from the site:
 
 ## Home Page
 <img class="ui large image" src="../images/current-home-page.png">
