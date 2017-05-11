@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-published: true
+published: false
 title: Final Project Idea
 date: 2017-03-09
 labels:
