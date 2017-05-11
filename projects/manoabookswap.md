@@ -17,9 +17,13 @@ As a group project for ICS 314 we put this site together. We used the meteor fra
 Below are some screenshots from the site. 
 
 ## Home Page
+<hr>
 <img class="ui large image" src="../images/current-home-page.png">
+<hr>
 
 ## Shop Books Page
+<hr>
 <img class="ui large image" src="../images/current-filter.png">
+<hr>
 
 For this project I put together the 'Contacts Us Page', the  'FAQ Page', and the walkthrough found on our documentation page. I can honestly say that I learned a lot from this project. It was the first time I worked in a group where we had a strong organization at the onset. Prior to this I have participated in a Game Jam and a Hackathon. But those are much more chaotic since you are working with a time constraint. I know how much more effective project based working can be and I look forward to any oportunities in the future to do so.
