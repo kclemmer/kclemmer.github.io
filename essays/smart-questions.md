@@ -25,4 +25,4 @@ With all of the hate that could potentially flow towards you, why would anyone e
 
 ## Conversely...
 
-Here's the thing. Trolls have existed for a while, its just that a fair number of them have gone undocumented. Online however, their infamy lives on. There are places where you can look up [famous trolls](https://www.internetmarketingninjas.com/blog/social-media/awesome-internet-trolls/) and check out ways to mess with people yourself. 
+Here's the thing. Trolls have existed for a while, its just that a fair number of them have gone undocumented. Online however, their infamy lives on. There are places where you can look up [famous trolls](https://www.internetmarketingninjas.com/blog/social-media/awesome-internet-trolls/) and check out ways to mess with people yourself. Trolls will never go away until we inevitably end up with a all-powerful government who controls us down to our thoughts. But barring that they are here to stay. 
