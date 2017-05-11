@@ -17,12 +17,10 @@ As a group project for ICS 314 we put this site together. We used the meteor fra
 Below are some screenshots from the site. 
 
 ## Home Page
-<hr>
 <img class="ui large image" src="../images/current-home-page.png">
 <hr>
 
 ## Shop Books Page
-<hr>
 <img class="ui large image" src="../images/current-filter.png">
 <hr>
 
