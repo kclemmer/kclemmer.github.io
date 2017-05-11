@@ -2,12 +2,15 @@
 layout: project
 type: project
 published: true
-image: images/CIcon.jpg
-title: Address Book
+image: images/mbs-logo.jpg
+title: Manoa Book Swap
 permalink: 
-date: 2016-2016
+date: 2017-2017
 labels:
-summary: ICS 212 Project.
+summary: ICS 314 Group Project.
 ---
 
-Test
+<img class="ui medium image" src="../images/current-home-page.jpg">
+
+<img class="ui medium image" src="../images/current-filter.jpg">
+
