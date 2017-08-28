@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-published: true
+published: false
 image: images/CIcon.jpg
 title: Address Book
 permalink: 
