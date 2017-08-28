@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-published: true
+published: false
 image: images/14K002.jpg
 title: Radar Technician
 permalink: 
