@@ -65,14 +65,23 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Spring, 2019)",
       "studyType": "B.S.",
       "startDate": "2016",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.15",
       "courses": [
         "Program Structure (ICS 212)",
-        "Security and Trust I (ICS 355)"
+        "Algorithms (ICS 311)",
+        "Software Engineering I (ICS 314)",
+        "Database Systems I (ICS 321)",
+        "Operating Systems (ICS 332)",
+        "Security and Trust I (ICS 355)",
+        "Software Engineering II (ICS 414)",
+        "Data Security & Cryptography I (ICS 423)",
+        "Computer Security and Ethics (ICS 425)",
+        "Computer System Security (ICS 426)",
+        "Digital Forensics (ICS 428)"
       ]
     },
     {
@@ -101,12 +110,21 @@
     }
   ],
   "work": [
+    { "company": "GoldenEye Hawaii",
+      "position": "Sales Associate",
+      "website": "",
+      "startDate": "2016-03-15",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+      ]
+    },
     {
       "company": "HIANG",
       "position": "Radar Technician",
       "website": "",
       "startDate": "2011-09-30",
-      "endDate": "Present",
+      "endDate": "2017-09-29",
       "summary": "Maintain Radar Equipment to Ensure Combat Readiness",
       "highlights": [
       ]
